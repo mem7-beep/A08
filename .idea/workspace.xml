@@ -17,9 +17,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74961d30-0e0a-40a4-bcdc-87e090d61401" name="Default Changelist" comment="hw 8">
-      <change afterPath="$PROJECT_DIR$/speakers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A08.html" beforeDir="false" afterPath="$PROJECT_DIR$/A08.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A08.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +51,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\micha\Documents\hw\web dev\A08" />
+      <recent name="C:\Users\micha\Documents\hw" />
+      <recent name="C:\Users\micha\Documents\hw\MurachV04_StudentFiles\exercises\town_hall_1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\micha\Documents\hw\MurachV04_StudentFiles\exercises\untitled" />
       <recent name="C:\Users\micha\Documents\hw\MurachV04_StudentFiles\exercises\untitled\images\.idea" />
       <recent name="C:\Users\micha\Documents\hw\MurachV04_StudentFiles\exercises\untitled\images" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\micha\Documents\hw" />
-      <recent name="C:\Users\micha\Documents\hw\MurachV04_StudentFiles\exercises\town_hall_1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -69,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603163179225</updated>
       <workItem from="1603163180276" duration="13379000" />
-      <workItem from="1603223203085" duration="798000" />
+      <workItem from="1603223203085" duration="1458000" />
     </task>
     <task id="LOCAL-00001" summary="hw 8">
       <created>1603167062099</created>
@@ -85,7 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603222205056</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hw 8">
+      <created>1603224011495</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603224011495</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hw 8">
+      <created>1603224336655</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603224336655</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,23 +136,23 @@
     <option name="LAST_COMMIT_MESSAGE" value="hw 8" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="557" y="214" key="FileChooserDialogImpl" timestamp="1603222165944">
+    <state x="557" y="214" key="FileChooserDialogImpl" timestamp="1603224292681">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1180" y="283" key="FileChooserDialogImpl/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1603165786260" />
-    <state x="557" y="214" key="FileChooserDialogImpl/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1603222165944" />
-    <state x="838" y="418" key="Github.ShareDialog" timestamp="1603223518812">
+    <state x="557" y="214" key="FileChooserDialogImpl/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1603224292681" />
+    <state x="838" y="418" key="Github.ShareDialog" timestamp="1603224371218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="838" y="418" key="Github.ShareDialog/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1603223518812" />
+    <state x="838" y="418" key="Github.ShareDialog/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1603224371218" />
     <state x="679" y="225" key="Github.UntrackedFilesDialog" timestamp="1603222240443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="679" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1603222240443" />
-    <state x="236" y="392" key="Vcs.Push.Dialog.v2" timestamp="1603223453591">
+    <state x="236" y="392" key="Vcs.Push.Dialog.v2" timestamp="1603224029526">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="236" y="392" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1603223453591" />
+    <state x="236" y="392" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1603224029526" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603223431455">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
